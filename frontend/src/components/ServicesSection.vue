@@ -80,6 +80,7 @@ const getBgClass = (index) => {
 .light-row {
   background-color: #c6c691;
 }
+
 .dark-row {
   background-color: #244e3a;
 }
