@@ -1,0 +1,1 @@
+2026-01-11 13:04:41	guest	http://localhost/nexus/	Can’t save page (id=0): Pages of type NullPage are not saveable (C:\xampp\htdocs\nexus\wire\core\PagesEditor.php:494)

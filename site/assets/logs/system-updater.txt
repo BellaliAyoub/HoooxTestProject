@@ -1,0 +1,23 @@
+2026-01-09 13:53:40	Update #16: Initializing update
+2026-01-09 13:53:45	Update #16: Completed!
+2026-01-09 13:54:03	Update #17: Initializing update
+2026-01-09 13:54:03	Update #17: Skipped: /site/.htaccess (already exists)
+2026-01-09 13:54:03	Update #17: Created: /site/assets/.htaccess
+2026-01-09 13:54:03	Update #17: Skipped: /site/assets/cache/.htaccess (already exists)
+2026-01-09 13:54:03	Update #17: Skipped: /site/assets/backups/.htaccess (already exists)
+2026-01-09 13:54:03	Update #17: Skipped: /site/assets/logs/.htaccess (already exists)
+2026-01-09 13:54:03	Update #17: Created: /site/templates/.htaccess
+2026-01-09 13:54:03	Update #17: Created: /site/modules/.htaccess
+2026-01-09 13:54:03	Update #17: Details: <a href='https://processwire.com/blog/posts/pw-3.0.135/' target='_blank'>https://processwire.com/blog/posts/pw-3.0.135/</a>
+2026-01-09 13:54:03	Update #17: Completed!
+2026-01-09 13:54:17	Update #18: Initializing update
+2026-01-09 13:54:18	Update #18: Completed!
+2026-01-09 13:54:42	Update #19: Initializing update
+2026-01-09 13:54:42	Update #19: Removed 3 redundant modules table entries
+2026-01-09 13:54:42	Update #19: Completed!
+2026-01-09 13:54:43	Update #20: Initializing update
+2026-01-09 13:54:43	Update #20: Updated 34 page(s) for correct created_users_id
+2026-01-09 13:54:43	Update #20: Completed!
+2026-01-09 13:54:43	Update #21: Initializing update
+2026-01-09 13:54:43	Update #21: Installed FileValidatorZip module
+2026-01-09 13:54:43	Update #21: Completed!

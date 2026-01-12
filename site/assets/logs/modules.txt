@@ -1,0 +1,8 @@
+2026-01-09 13:53:45	guest	http://localhost/http404/	Found 2 module(s) missing file: FieldtypeNumber => C:/xampp/htdocs/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => C:/xampp/htdocs/site/modules/ProcessPage/ProcessPage.module
+2026-01-09 13:53:45	guest	http://localhost/http404/	Installed module 'AdminThemeUikit'
+2026-01-09 13:53:45	guest	http://localhost/http404/	Found 2 module(s) missing file: FieldtypeNumber => C:/xampp/htdocs/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => C:/xampp/htdocs/site/modules/ProcessPage/ProcessPage.module
+2026-01-09 13:54:43	admin	http://localhost/admin/page/?login=1	Installed module 'FileValidatorZip'
+2026-01-11 13:16:42	admin	http://localhost/nexus/admin/module/	Installed module 'InputfieldRepeater'
+2026-01-11 13:16:42	admin	http://localhost/nexus/admin/module/	Installed module 'FieldtypeRepeater'
+2026-01-11 13:18:02	admin	http://localhost/nexus/admin/setup/field/edit?id=101	Installed module 'InputfieldToggle'
+2026-01-11 13:18:03	admin	http://localhost/nexus/admin/setup/field/edit?id=101	Installed module 'InputfieldTextTags'

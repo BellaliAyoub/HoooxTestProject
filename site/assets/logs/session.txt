@@ -1,0 +1,33 @@
+2026-01-09 13:54:43	admin	http://localhost/admin/login/	Successful login for 'admin'
+2026-01-11 12:34:04	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:34:10	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:34:32	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:34:56	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:35:29	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:35:36	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Blocked login attempt
+2026-01-11 12:36:29	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:36:41	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Blocked login attempt
+2026-01-11 12:38:33	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:40:41	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:40:55	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:41:16	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:41:34	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:45:37	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:47:50	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:48:08	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:48:14	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:48:39	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:49:03	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:49:27	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 12:54:42	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 13:00:12	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 13:00:26	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 13:00:36	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 13:01:01	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 13:01:14	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Blocked login attempt
+2026-01-11 13:01:45	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 13:01:58	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Blocked login attempt
+2026-01-11 13:03:47	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 13:07:15	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
+2026-01-11 13:07:29	admin	http://localhost/nexus/admin/login/	Successful login for 'admin'
+2026-01-12 10:28:40	admin	http://localhost/nexus/admin/login/	Successful login for 'admin'
