@@ -31,3 +31,7 @@
 2026-01-11 13:07:15	guest	http://localhost/nexus/admin/login/	Error: Failed login for 'processwire' - Unknown user
 2026-01-11 13:07:29	admin	http://localhost/nexus/admin/login/	Successful login for 'admin'
 2026-01-12 10:28:40	admin	http://localhost/nexus/admin/login/	Successful login for 'admin'
+2026-01-12 16:58:48	admin	http://localhost/nexus/admin/login/logout/	Logout for 'admin'
+2026-01-12 17:02:09	admin	http://localhost/nexus/admin/login/	Successful login for 'admin'
+2026-01-12 17:02:27	admin	http://localhost/nexus/admin/login/logout/	Logout for 'admin'
+2026-01-12 17:03:03	admin	http://localhost/nexus/admin/login/	Successful login for 'admin'
